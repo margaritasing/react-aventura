@@ -10,7 +10,7 @@ function Navbar() {
       <div className="container-fluid">
         <a className="navbar-brand ms-4" href="/#">
           <img className="img-top ms-4 me-4" src={Imagen} alt="..." />
-          Aventura
+          MyItinerary
         </a>
         <button
           className="navbar-toggler"

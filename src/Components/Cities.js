@@ -1,5 +1,5 @@
 import React from "react";
-import City from "./City";
+import City from "./City/City";
 
 import Imagen1 from "./images/g-3.jpg";
 import Imagen2 from "./images/g-4.jpg";
